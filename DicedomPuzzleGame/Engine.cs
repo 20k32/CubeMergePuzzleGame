@@ -1,5 +1,4 @@
-﻿using static System.Windows.Forms.VisualStyles.VisualStyleElement;
-using Button = System.Windows.Forms.Button;
+﻿using Button = System.Windows.Forms.Button;
 
 namespace DicedomPuzzleGame
 {
